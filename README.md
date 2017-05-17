@@ -8,7 +8,7 @@ Console based HangMan game written in the [Python Programming Language](http://w
 - Guess 1 letter at a time.
 - 9 incorrect guesses ends the game.
 
-###Usage
+### Usage
 
 Run this command:
 
@@ -24,20 +24,20 @@ A sample game. Can you guess the answer?
 	!!!!!!!!!! HANGMAN !!!!!!!!!! 
 
  	_________________ 
-
-    	    |          
+		
+		|          
 	
         	|          
 	
-    	    |          
+    	    	|          
 	
-    	  /. .\         
+	      /. .\         
 	
-    	  \ - /         
+    	      \ - /         
 	
-    	    |         
+       	    	|         
 	
-    	    |         
+    	    	|         
 	
 	********** Hangman Game **********
 	Word guessed so far: ['I', 'N', 'T', 'E', 'R', '_', 'E', 'B'] , Chances Left: 5
