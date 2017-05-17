@@ -26,19 +26,19 @@ A sample game. Can you guess the answer?
  	_________________ 
 		
 		|          
-	
-        	|          
-	
-    	    	|          
-	
+		
+		|          
+		
+		|          
+		
 	      /. .\         
-	
-    	      \ - /         
-	
-       	    	|         
-	
-    	    	|         
-	
+	      
+	      \ - /      
+		
+		|         
+		
+		|         
+		
 	********** Hangman Game **********
 	Word guessed so far: ['I', 'N', 'T', 'E', 'R', '_', 'E', 'B'] , Chances Left: 5
 	Enter Letter:
